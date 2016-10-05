@@ -1,0 +1,7 @@
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\obj\Debug\00_Hello.csprojResolveAssemblyReference.cache
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\bin\Debug\00_Hello.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\bin\Debug\00_Hello.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\obj\Debug\00_Hello.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\00_Hello\00_Hello\obj\Debug\00_Hello.pdb

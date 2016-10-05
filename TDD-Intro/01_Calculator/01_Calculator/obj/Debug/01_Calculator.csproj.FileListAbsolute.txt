@@ -4,3 +4,10 @@ c:\users\sist\documents\visual studio 2015\Projects\02_Calculator\02_Calculator\
 c:\users\sist\documents\visual studio 2015\Projects\02_Calculator\02_Calculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 c:\users\sist\documents\visual studio 2015\Projects\02_Calculator\02_Calculator\obj\Debug\02_Calculator.dll
 c:\users\sist\documents\visual studio 2015\Projects\02_Calculator\02_Calculator\obj\Debug\02_Calculator.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\obj\Debug\01_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\bin\Debug\02_Calculator.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\bin\Debug\02_Calculator.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\obj\Debug\02_Calculator.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\01_Calculator\obj\Debug\02_Calculator.pdb

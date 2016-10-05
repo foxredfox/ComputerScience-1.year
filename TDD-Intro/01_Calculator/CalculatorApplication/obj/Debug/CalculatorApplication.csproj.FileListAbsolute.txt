@@ -1,1 +1,11 @@
 C:\Users\sist\Documents\GitHub\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\02_Calculator.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\02_Calculator.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\01_Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
