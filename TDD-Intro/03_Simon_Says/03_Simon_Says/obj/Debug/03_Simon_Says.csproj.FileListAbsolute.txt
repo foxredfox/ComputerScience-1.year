@@ -1,0 +1,7 @@
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\obj\Debug\03_Simon_Says.csprojResolveAssemblyReference.cache
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\bin\Debug\03_Simon_Says.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\bin\Debug\03_Simon_Says.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\obj\Debug\03_Simon_Says.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\03_Simon_Says\03_Simon_Says\obj\Debug\03_Simon_Says.pdb
