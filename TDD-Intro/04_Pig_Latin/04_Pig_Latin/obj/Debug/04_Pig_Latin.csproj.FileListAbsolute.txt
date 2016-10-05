@@ -1,0 +1,6 @@
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\04_Pig_Latin\04_Pig_Latin\bin\Debug\04_Pig_Latin.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\04_Pig_Latin\04_Pig_Latin\bin\Debug\04_Pig_Latin.pdb
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\04_Pig_Latin\04_Pig_Latin\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\04_Pig_Latin\04_Pig_Latin\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\04_Pig_Latin\04_Pig_Latin\obj\Debug\04_Pig_Latin.dll
+C:\Users\black\Source\Repos\1.-year\TDD-Intro\04_Pig_Latin\04_Pig_Latin\obj\Debug\04_Pig_Latin.pdb
