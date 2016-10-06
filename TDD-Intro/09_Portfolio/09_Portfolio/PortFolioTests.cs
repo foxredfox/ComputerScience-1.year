@@ -21,7 +21,7 @@ namespace _09_Portfolio
         [TestMethod]
         public void PortfolioCanUseConstructor()
         {
-            List<Asset> stocks = new List<Asset>();
+            List<IAsset> stocks = new List<IAsset>();
             stocks.Add(stockHP);
             stocks.Add(stockIBM);
             Portfolio portfolio = new Portfolio(stocks);
