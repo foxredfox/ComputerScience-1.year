@@ -31,7 +31,7 @@ namespace _12_Employee
             EmployeeRepository repository = CreateRepository();
             repository.Clear();
             Employee simon = repository.CreateEmployee("Simon Stochholm", "Teacher");
-            Assert.AreEqual("simon Chaffee", simon.Name);
+            Assert.AreEqual("Simon Stochholm", simon.Name);
             Assert.AreEqual("Teacher", simon.Type);
             Assert.IsTrue(simon.Id != 0);
             Employee nick = repository.CreateEmployee("Nick Chaffee", "Translator");
